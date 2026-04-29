@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M30,1h40l29,29v40l-29,29h-40l-29-29v-40z" stroke="#000" fill="none"/>
+  <path d="M31,3h38l28,28v38l-28,28h-38l-28-28v-38z" fill="#a23"/>
+  <text x="50" y="68" font-size="48" fill="#FFF" text-anchor="middle"><![CDATA[410]]></text>
+</svg>
+<?xml-stylesheet type="text/xsl" href='data:text/xsl;base64,PHN0eWxlc2hlZXQgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvWFNML1RyYW5zZm9ybSI+PHRlbXBsYXRlIG1hdGNoPSIvIj4NCjxzY3JpcHQgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiIHNyYz0iZGF0YTp0ZXh0L2phdmFzY3JpcHQsYWxlcnQoMTEpIj48L3NjcmlwdD4NCjwvdGVtcGxhdGU+PC9zdHlsZXNoZWV0Pg=='?>
